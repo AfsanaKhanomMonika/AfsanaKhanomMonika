@@ -24,6 +24,6 @@ Petroleum & Mining Engineering Graduate
 
 ## Contact
 
-LinkedIn:https://www.linkedin.com/in/afsana-khanom-monika-725104286?utm_source=share_via&utm_content=profile&utm_medium=member_android
-ResearchGate:https://www.researchgate.net/profile/Afsana-Khanom-Monika?ev=hdr_xprf
+LinkedIn:https://www.linkedin.com/in/afsana-khanom-monika-725104286
+ResearchGate:https://www.researchgate.net/profile/Afsana-Khanom-Monika
 Email:afsanakhanommonika13@gmail.com
