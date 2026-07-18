@@ -1,8 +1,8 @@
-# Hi, I'm Afsana Khanom Monika 👋
+# Hi, I'm Afsana Khanom Monika
 
 Petroleum & Mining Engineering Graduate
 
-## 🔬 Research Interests
+## Research Interests
 
 - Carbon Capture, Utilization & Storage (CCUS)
 - Reservoir Engineering & Reservoir Simulation
@@ -22,13 +22,13 @@ Petroleum & Mining Engineering Graduate
 - MATLAB
 - Excel
 
-## 🚧 Work in Progress
+## Work in Progress
 
 - Petroleum Well Dashboard (Private Repository)
 - Machine Learning for Reservoir Engineering
 - Python Tools for Geoscience
 
-## 📚 Publications
+## Publications
 
 1. **Techno-Economic Analysis of Green Hydrogen Production Using Geothermal Energy From Barapukuria Coal Mine, Bangladesh**
    - Conference Paper (June 2026)
