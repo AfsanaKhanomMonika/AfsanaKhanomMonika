@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Afsana Khanom Monika 👋
 
-<!--
-**AfsanaKhanomMonika/AfsanaKhanomMonika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Petroleum & Mining Engineering Graduate
 
-Here are some ideas to get you started:
+## Research Interests
+- Reservoir Engineering
+- Carbon Capture and Storage (CCS)
+- Enhanced Oil Recovery
+- Drilling Fluids
+- Machine Learning for Energy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Petrel
+- Eclipse
+- Materials Studio
+- MATLAB
+- Excel
+
+## Current Projects
+- Petroleum Well Dashboard
+- Python for Geoscience
+- Machine Learning for Reservoir Data
+
+## Contact
+
+LinkedIn:https://www.linkedin.com/in/afsana-khanom-monika-725104286?utm_source=share_via&utm_content=profile&utm_medium=member_android
+ResearchGate:https://www.researchgate.net/profile/Afsana-Khanom-Monika?ev=hdr_xprf
+Email:afsanakhanommonika13@gmail.com
