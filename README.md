@@ -2,12 +2,17 @@
 
 Petroleum & Mining Engineering Graduate
 
-## Research Interests
-- Reservoir Engineering
-- Carbon Capture and Storage (CCS)
-- Enhanced Oil Recovery
-- Drilling Fluids
-- Machine Learning for Energy
+## 🔬 Research Interests
+
+- Carbon Capture, Utilization & Storage (CCUS)
+- Reservoir Engineering & Reservoir Simulation
+- Enhanced Oil Recovery (EOR)
+- Geothermal Energy
+- Hydrogen Energy
+- Sustainable Drilling Technologies
+- Well Integrity & Carbon Sequestration
+- Machine Learning for Energy Applications
+- Data Analytics with Python
 
 ## Skills
 - Python
@@ -17,10 +22,29 @@ Petroleum & Mining Engineering Graduate
 - MATLAB
 - Excel
 
-## Current Projects
-- Petroleum Well Dashboard
-- Python for Geoscience
-- Machine Learning for Reservoir Data
+## 🚧 Work in Progress
+
+- Petroleum Well Dashboard (Private Repository)
+- Machine Learning for Reservoir Engineering
+- Python Tools for Geoscience
+
+## 📚 Publications
+
+1. **Techno-Economic Analysis of Green Hydrogen Production Using Geothermal Energy From Barapukuria Coal Mine, Bangladesh**
+   - Conference Paper (June 2026)
+
+2. **MICROBIAL AND CO₂-REACTIVE CEMENT CHEMISTRY SYNERGY FOR AUTONOMOUS CRACK HEALING AND CARBON SEQUESTRATION IN SUBSURFACE WELLS**
+   - Conference Paper (February 2026)
+
+3. **Sustainable EOR Through Ion-Engineered Produced Water: A Smart Water Feasibility Study**
+   - Conference Paper (December 2025)
+
+4. **Hybrid Solar-Powered Drilling Systems: Reducing Fossil Fuel Dependence and Emissions in Oil and Gas Exploration**
+   - Conference Paper (July 2025)
+
+5. **CO₂ Storage in Deep Saline Aquifers: A Key Solution for Sustainable Energy Transition**
+   - Conference Paper (July 2025)
+
 
 ## Contact
 
