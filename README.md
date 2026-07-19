@@ -32,7 +32,7 @@ Petroleum & Mining Engineering Graduate
 
 1.Techno-Economic Analysis of Green Hydrogen Production Using Geothermal Energy From Barapukuria Coal Mine, Bangladesh
 
-Conference Paper (June 2026)
+Conference Paper (December 2025)
 
 2.MICROBIAL AND CO₂-REACTIVE CEMENT CHEMISTRY SYNERGY FOR AUTONOMOUS CRACK HEALING AND CARBON SEQUESTRATION IN SUBSURFACE WELLS
 
