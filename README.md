@@ -30,21 +30,29 @@ Petroleum & Mining Engineering Graduate
 
 ## Publications
 
-1. **Techno-Economic Analysis of Green Hydrogen Production Using Geothermal Energy From Barapukuria Coal Mine, Bangladesh**
-   - Conference Paper (June 2026)
+1.Techno-Economic Analysis of Green Hydrogen Production Using Geothermal Energy From Barapukuria Coal Mine, Bangladesh
 
-2. **MICROBIAL AND CO₂-REACTIVE CEMENT CHEMISTRY SYNERGY FOR AUTONOMOUS CRACK HEALING AND CARBON SEQUESTRATION IN SUBSURFACE WELLS**
-   - Conference Paper (February 2026)
+Conference Paper (June 2026)
 
-3. **Sustainable EOR Through Ion-Engineered Produced Water: A Smart Water Feasibility Study**
-   - Conference Paper (December 2025)
+2.MICROBIAL AND CO₂-REACTIVE CEMENT CHEMISTRY SYNERGY FOR AUTONOMOUS CRACK HEALING AND CARBON SEQUESTRATION IN SUBSURFACE WELLS
 
-4. **Hybrid Solar-Powered Drilling Systems: Reducing Fossil Fuel Dependence and Emissions in Oil and Gas Exploration**
-   - Conference Paper (July 2025)
+Conference Paper (February 2026)
 
-5. **CO₂ Storage in Deep Saline Aquifers: A Key Solution for Sustainable Energy Transition**
-   - Conference Paper (July 2025)
+3.Repurposing Abandoned Hydrocarbon Wells for Geothermal Power in Northern Bangladesh: A Feasibility Study Toward Affordable and Sustainable Energy
 
+Conference Paper (December 2025)
+
+4.Sustainable EOR Through Ion-Engineered Produced Water: A Smart Water Feasibility Study
+
+Conference Paper (July 2025)
+
+5.Hybrid Solar-Powered Drilling Systems: Reducing Fossil Fuel Dependence and Emissions in Oil and Gas Exploration
+
+Conference Paper (July 2025)
+
+6.CO₂ Storage in Deep Saline Aquifers: A Key Solution for Sustainable Energy Transition
+
+Conference Paper (July 2025)
 
 ## Contact
 
